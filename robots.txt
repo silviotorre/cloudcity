@@ -1,0 +1,13 @@
+#User agent crawling directive
+User-agent: *
+Disallow: /*.mobirise 
+Disallow: /.vscode/
+Disallow: /.ionide/
+Disallow: /.git/
+Crawl-delay: 65
+Request Rate:1/10 
+Visit-time 0600-1000 
+# Showing Host directive
+#host: cloudcity.link
+#Sitemap Directive
+#Sitemap: http://cloudcity.link/sitemap.xml
