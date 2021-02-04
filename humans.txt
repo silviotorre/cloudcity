@@ -1,0 +1,18 @@
+/* TEAM */
+	Idea:Silvio Torre
+	Contact: info [at] cloudcity.link
+	Twitter: @silviotorre
+	From:Napoli, Campania, Italia
+
+	
+/* THANKS */
+
+	(First) EN Translator: Alessio Alexej Paesano
+	From: Warszawa, Mazowieckie, Poland
+		
+
+/* SITE */
+	Last update:2021/02/04
+	Language: Polsk / English / Italiano
+	Doctype:HTML5
+	IDE: Vs Code, Notepad++, FileZilla, Photoshop
