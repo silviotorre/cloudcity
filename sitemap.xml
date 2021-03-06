@@ -2,9 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!--Url Extract: 1--> 
   <url>
-    <loc>https://cloudcity.link/</loc>
+    <loc>http://cloudcity.link/</loc>
     <lastmod>2021-01-25</lastmod>
-    <changefreq>always</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 </urlset>
+ 
